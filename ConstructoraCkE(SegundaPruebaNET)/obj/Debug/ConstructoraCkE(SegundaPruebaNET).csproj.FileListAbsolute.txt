@@ -1,0 +1,13 @@
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE(SegundaPruebaNET).csprojResolveAssemblyReference.cache
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.Properties.Resources.resources
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE(SegundaPruebaNET).csproj.GenerateResource.Cache
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\bin\Debug\ConstructoraCkE(SegundaPruebaNET).exe.config
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\bin\Debug\ConstructoraCkE(SegundaPruebaNET).exe
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\bin\Debug\ConstructoraCkE(SegundaPruebaNET).pdb
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE(SegundaPruebaNET).exe
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE(SegundaPruebaNET).pdb
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.V_Principal.resources
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.Vistas.V_MenuPrincipal.resources
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.Vistas.V_Obra.resources
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.Vistas.V_Tarea.resources
+c:\users\melón\documents\visual studio 2017\Projects\ConstructoraCkE(SegundaPruebaNET)\ConstructoraCkE(SegundaPruebaNET)\obj\Debug\ConstructoraCkE_SegundaPruebaNET_.Vistas.V_Labor.resources
